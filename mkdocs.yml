@@ -1,5 +1,6 @@
 site_name: fossdocs 
 repo_url: https://github.com/cmuc24/fossdocs
+site_url: https://cmuc24.github.io/fossdocs
 theme:
   name: material
   features:
