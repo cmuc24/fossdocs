@@ -1,0 +1,11 @@
+site_name: My Docs
+repo_url: https://github.com/cmuc24/fossdocs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+
