@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: fossdocs
 repo_url: https://github.com/cmuc24/fossdocs
 theme:
   name: material
