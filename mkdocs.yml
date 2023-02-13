@@ -3,7 +3,7 @@ repo_url: https://github.com/cmuc24/fossdocs
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.tabs 
     - navigation.indexes
     - content.action.edit
     - content.action.view
